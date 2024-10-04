@@ -13,3 +13,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3148699851
 - Add AtragMx presets and accurate mRad reticle calibration.
 - Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf".
 - Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf".
+
+Bohemia Interactive forum's download links: https://forums.bohemia.net/forums/topic/288411-jca-m115a3-compatibility-ace3/
