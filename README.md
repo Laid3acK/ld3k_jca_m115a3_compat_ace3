@@ -1,7 +1,4 @@
-Ace3 compatibility for the Arma 3 weapon mod "JCA - M115A3" by Grave:
-
-https://steamcommunity.com/sharedfiles/filedetails/?id=3148699851
-
+Ace3 compatibility for the Arma 3 weapon mod "JCA - M115A3" by Grave: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3148699851)
 - Can be played with or without Ace3.
 - Default ballistic muzzle velocities according to Advanced Ballistics ICAO muzzle velocities (15°C, 1013.25 hPa, 0%).
 - Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
@@ -14,4 +11,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3148699851
 - Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf".
 - Add "ACE_railHeightAboveBore" from ACE3 "checkScopes.sqf".
 
-Bohemia Interactive forum's download links: https://forums.bohemia.net/forums/topic/288411-jca-m115a3-compatibility-ace3/
+Download links: [Bohemia Interactive forums](https://forums.bohemia.net/forums/topic/288411-jca-m115a3-compatibility-ace3/)
+
+License: [Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
